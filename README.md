@@ -3,9 +3,10 @@ Esse projeto visa a elaborar uma Pokedex na Web, utilizando HTML, CSS e JavaScri
 
 Ferramentas utilizadas:
 
-- Linguagens: HTML, CSS e JavaScript.
+- Linguagem de Programação utilizada: JavaScript.
+- Linguagem de Marcação utilizada: CSS e HTML.
 - API: https://pokeapi.co/api/v2/pokemon.
-- Ferramenta: VisualCode
+- Ferramenta: VisualCode.
 
   O video a seguir demonstra a Pokedex em funcionamento:
 
